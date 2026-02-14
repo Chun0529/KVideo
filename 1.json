@@ -1,3 +1,4 @@
+
 [
     {
         "id": "feifan",
@@ -447,10 +448,26 @@
         "enabled": true,
         "priority": 56
     },
+  {
+        "id": "momovod",
+        "name": "MoMoVod",
+        "baseUrl": "https://momovod.app/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
+    },
+  {
+        "id": "gimytw",
+        "name": "gimytw",
+        "baseUrl": "https://gimytw.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 58
+    },
     {
-        "id": "leba",
-        "name": "乐播资源",
-        "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+        "id": "gimytw",
+        "name": "gimytw",
+        "baseUrl": "https://gimytw.cc/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 1
